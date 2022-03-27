@@ -47,6 +47,9 @@
     "test": "vitest",
     "typecheck": "tsc --noEmit"
   },
+  "dependencies": {
+    "@depeng9527/tools": "^2.2.3"
+  },
   "devDependencies": {
     "@babel/types": "^7.17.0",
     "@depeng9527/eslint-config": "^1.4.1",
