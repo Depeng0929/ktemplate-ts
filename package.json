@@ -51,17 +51,17 @@
     "@depeng9527/tools": "^2.2.8"
   },
   "devDependencies": {
-    "@babel/types": "^7.18.8",
+    "@babel/types": "^7.18.9",
     "@depeng9527/eslint-config": "^1.4.3",
-    "@types/node": "^18.0.3",
+    "@types/node": "^18.0.6",
     "bumpp": "^8.2.1",
-    "eslint": "^8.19.0",
+    "eslint": "^8.20.0",
     "esno": "^0.16.3",
-    "pnpm": "^7.5.0",
+    "pnpm": "^7.6.0",
     "rimraf": "^3.0.2",
     "typescript": "^4.7.4",
-    "unbuild": "^0.7.4",
-    "vite": "^2.9.14",
-    "vitest": "^0.17.1"
+    "unbuild": "^0.7.6",
+    "vite": "^3.0.2",
+    "vitest": "^0.18.1"
   }
 }
