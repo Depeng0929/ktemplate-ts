@@ -51,8 +51,8 @@
     "@depeng9527/tools": "^2.4.2"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "^0.26.1",
     "@babel/types": "^7.18.10",
-    "@depeng9527/eslint-config": "^1.4.3",
     "@types/node": "^18.7.9",
     "bumpp": "^8.2.1",
     "eslint": "^8.22.0",
