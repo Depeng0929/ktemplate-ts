@@ -51,17 +51,17 @@
     "@depeng9527/tools": "^2.5.2"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.33.1",
-    "@babel/types": "^7.20.5",
-    "@types/node": "^18.11.11",
+    "@antfu/eslint-config": "^0.34.1",
+    "@babel/types": "^7.20.7",
+    "@types/node": "^18.11.18",
     "bumpp": "^8.2.1",
-    "eslint": "^8.29.0",
+    "eslint": "^8.31.0",
     "esno": "^0.16.3",
-    "pnpm": "^7.18.1",
+    "pnpm": "^7.24.3",
     "rimraf": "^3.0.2",
     "typescript": "^4.9.4",
     "unbuild": "^1.0.2",
-    "vite": "^3.2.5",
-    "vitest": "^0.25.6"
+    "vite": "^4.0.4",
+    "vitest": "^0.27.0"
   }
 }
